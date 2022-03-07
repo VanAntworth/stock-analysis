@@ -18,9 +18,9 @@ the beginning of the year to the end of the year.
 
 With the Macro created we identified stocks that had positive yearly return and were able to get an idea of how often they were traded.
 
-##Results:
+## Results:
 
-Provided below are the *executuion time* outputs for the refactored code:
+##Provided below are the *executuion time* outputs for the refactored code:
 
 ### 2017
 <img width="635" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/99001393/156948457-5d34e707-ee9c-4aab-af15-82b5150acfe2.png">
